@@ -4,8 +4,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="32.661%" alt=""></picture><a href="https://t.me/tinytosha"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://dsc,gg/davidhook"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="32.661%" alt=""></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
 <a href="https://github.com/amethyst-bin/luau-definition-plusplus"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-luau-definition-plusplus-dark.svg"><img src="assets/project-luau-definition-plusplus-light.svg" width="49%" alt="luau-definition-plusplus"></picture></a>&nbsp;<a href="https://github.com/amethyst-bin/neoagy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-neoagy-dark.svg"><img src="assets/project-neoagy-light.svg" width="49%" alt="neoagy"></picture></a>
